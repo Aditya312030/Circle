@@ -1,4 +1,3 @@
-package Circle;
 
 // CircleArea.java
 public class CircleArea {
