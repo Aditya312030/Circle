@@ -1,4 +1,3 @@
-package Circle;
 
 // RectanglePerimeter.java
 public class RectanglePerimeter {
